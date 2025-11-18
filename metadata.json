@@ -1,0 +1,7 @@
+{
+  "name": "TransVida - Guia e Apoio",
+  "description": "Uma plataforma completa para a comunidade trans, oferecendo guias legais, informações de saúde (SUS), oportunidades de emprego e um assistente virtual inteligente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
